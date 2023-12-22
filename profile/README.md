@@ -57,9 +57,10 @@ Our group plans to make the dyslexia scanner app even more helpful to users by a
 * Deploy using Cloud Run
 
 ### Mobile Development
-*
-*
-*
-*
-
+* Creating UI design
+* Configure android environment
+* Developing the application using cotlin
+* Create database for article using realtime database from firebase
+* API implementation from CC in ScanActivity to post image and get results from the server
+  
 
