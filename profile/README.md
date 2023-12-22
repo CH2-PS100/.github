@@ -50,7 +50,7 @@ Our group plans to make the dyslexia scanner app even more helpful to users by a
 * Developing an API to predict Dyslexia
 * Creating a service using Firebase
 * Create a Database to store prediction results
-* Build a DockerFile and DockerDocker Image
+* Create a DockerFile and  Build Docker Image
 * Deploy using Cloud Run
 
 ### Mobile Development
